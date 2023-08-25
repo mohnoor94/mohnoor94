@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NoorGuru">More of my Projects</a>
+  <a href="https://github.com/NoorGuru">My Websites Source Code (on my GitHub Org)</a>
 </p>
